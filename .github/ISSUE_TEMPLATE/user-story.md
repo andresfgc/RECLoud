@@ -8,8 +8,10 @@ assignees: ''
 ---
 
 As a **role** I can **capability** so that **received benefit**
+__________________________________________________________________
 
-I know I am done when:
-1.
-2.
-3.
+**Aceptance Criteria:**
+
+- [ ] ...
+- [ ] ...
+- [ ] ...
